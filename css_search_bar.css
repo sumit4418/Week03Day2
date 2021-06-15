@@ -1,0 +1,144 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    text-decoration: none;
+
+}
+div{
+      color:whitesmoke;
+    word-spacing: 15px;
+    border: 2px solid black;
+    padding: 5px 5px 5px 10px blue;
+
+
+}
+
+.logo{
+    width: 150px;
+    height: 150px;
+    padding-top: 0px;
+}
+.nav li{
+    display: inline-block ;
+    font-size: 35px;
+    text-decoration: none;
+    
+
+}
+.right-align{
+    color: black;
+    text-align: right;
+    padding-top: 0px;
+    word-spacing: 2px;
+    text-decoration: underline;
+    display: ruby-base-container;
+}
+.nav a{
+    border: 1px solid #17202A;
+    word-spacing: 30px;
+    background-color: #EAECEE;
+    text-align: right;
+
+    
+}   
+div .right{
+}
+ h2{
+    text-align:left;
+    padding-top: 10px;
+    padding-left: 200px;
+    color:black;
+}
+img{
+    border: 1px solid greenyellow;
+}
+#alert{
+    color:red ;
+    padding-left: 60px;
+}
+
+
+.apply{
+    word-spacing: 3px;
+    font-size: large;
+    display: inline;
+    background-color:#EBF5FB; 
+    padding: 5px 5px 6px 10px;
+}
+.lable{
+    font-size: 24px;
+    float: right;
+    color: indigo;
+    background: lavender;
+}
+#name{
+    color:#2874A6;
+    font-size: larger;
+
+}
+#position{
+    color: #1B4F72;
+    font-size: larger;
+    word-spacing: 2px;
+    border: black;
+}
+.education{
+    font-size: 25px;
+    color:#1B4F72;
+    padding: 5px 5px 5px 5px;
+    margin-left: 200px;
+    word-spacing: 3px;
+    text-align: center;
+    border:black
+}
+.ed{
+    background-color: #FDEDEC;
+}
+.go{
+    font-size: 25px;
+    color:#1B4F72;
+    padding: 5px 5px 5px 5px;
+    word-spacing: 3px;
+    float: right;
+    background-color: #D5F5E3;
+    border: black;
+}
+html,body{
+    height: 100%;
+}
+.nav{
+    min-height: 100%;
+}
+.ed{
+    overflow:auto ;
+
+}
+.footer{
+    line-height: 30px;
+    position: fixed;
+    bottom: 0;
+    width: 1500px;
+    background-color: #ABEBC6;
+    padding-top: 10px;
+    word-spacing:3px;
+    font-size: larger;
+    padding-left: 200px;
+    border: indigo;
+}
+.a label{
+    text-align: center;
+ }
+
+
+
+
+body{
+    background-image: url(guard.jpg);
+
+   
+}
+#searchbox{
+    float: left;
+    font-size: 30px;
+
+}
